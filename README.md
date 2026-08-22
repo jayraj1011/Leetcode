@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayraj1011/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/jayraj1011/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/jayraj1011/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2643-row-with-maximum-ones](https://github.com/jayraj1011/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayraj1011/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/jayraj1011/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/jayraj1011/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
@@ -33,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/jayraj1011/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/jayraj1011/Leetcode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
