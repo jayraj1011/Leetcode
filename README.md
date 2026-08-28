@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayraj1011/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/jayraj1011/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayraj1011/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/jayraj1011/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/jayraj1011/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jayraj1011/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayraj1011/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/jayraj1011/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/jayraj1011/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayraj1011/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jayraj1011/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
