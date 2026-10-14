@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayraj1011/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/jayraj1011/Leetcode/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/jayraj1011/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayraj1011/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jayraj1011/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/jayraj1011/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/jayraj1011/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jayraj1011/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
